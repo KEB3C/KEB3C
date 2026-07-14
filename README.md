@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Banner Arthur Farias" width="100%">
+</p>
+
+
 # 👋 Olá, eu sou o Arthur Farias!
 
 🎓 Estudante de **Ciência da Computação**
