@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner" alt="Banner Arthur Farias" width="100%">
+  <img src="banner.png" alt="Banner Arthur Farias" width="100%">
 </p>
 
 
