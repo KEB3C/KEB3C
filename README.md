@@ -4,26 +4,31 @@
 
 💻 Desenvolvedor Full Stack em formação
 
-🚀 Atualmente desenvolvendo aplicações Web com **Python + Flask**
-
-📚 Sempre buscando aprender novas tecnologias e criar projetos que resolvam problemas reais.
+🚀 Apaixonado por desenvolvimento Web, Python e Inteligência Artificial.
 
 ---
 
-## 🌐 Contato
+# 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arthur--farias--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-farias-dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Farias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-farias-dev/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-arthurfarias43448@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurfarias43448@gmail.com)
 
 ---
 
-# 📊 Estatísticas
+# 👨‍💻 Sobre mim
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KEB3C&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KEB3C&layout=compact&theme=tokyonight" />
-</p>
+Sou estudante de Ciência da Computação e estou construindo meu portfólio através de projetos completos utilizando Python, Flask, HTML, CSS e JavaScript.
+
+Tenho interesse em:
+
+- Desenvolvimento Web
+- Inteligência Artificial
+- Banco de Dados
+- Back-end
+- Cloud Computing
+
+Meu objetivo é evoluir continuamente como desenvolvedor e conquistar uma oportunidade profissional na área de tecnologia.
 
 ---
 
@@ -31,13 +36,13 @@
 
 ## 🩺 Tsuzuku
 
-Sistema Web desenvolvido em **Python + Flask** para gerenciamento de informações clínicas, geração de resumos médicos e histórico de atendimentos.
+Sistema Web desenvolvido em **Python + Flask** para auxiliar pacientes e profissionais da saúde na organização de informações clínicas, geração de resumos médicos e gerenciamento do histórico de atendimentos.
 
-🌐 **Aplicação Online**
+### 🌐 Aplicação Online
 
 https://tsuzuku.onrender.com
 
-📂 **Repositório**
+### 📂 Repositório
 
 https://github.com/KEB3C/tsuzuku
 
@@ -45,7 +50,7 @@ https://github.com/KEB3C/tsuzuku
 
 # 💻 Tecnologias
 
-### Linguagens
+## Linguagens
 
 <p>
 
@@ -59,7 +64,7 @@ https://github.com/KEB3C/tsuzuku
 
 </p>
 
-### Frameworks e Ferramentas
+## Frameworks e Ferramentas
 
 <p>
 
@@ -77,13 +82,53 @@ https://github.com/KEB3C/tsuzuku
 
 ---
 
+# 📚 Projetos
+
+## 🩺 Tsuzuku
+
+Sistema para gerenciamento de informações clínicas.
+
+**Tecnologias:**
+
+- Python
+- Flask
+- SQLite
+- HTML
+- CSS
+- JavaScript
+
+🔗 https://github.com/KEB3C/tsuzuku
+
+🌐 https://tsuzuku.onrender.com
+
+---
+
+## 🎵 Áudio Digital para Sistemas Multimídia
+
+Projeto acadêmico sobre conceitos de áudio digital.
+
+🔗 https://github.com/KEB3C/audio-digital-multimidia
+
+---
+
 # 🎯 Objetivos
 
-- 📖 Evoluir constantemente como desenvolvedor.
-- 🚀 Construir projetos completos para portfólio.
-- 🤖 Aprender Inteligência Artificial aplicada ao desenvolvimento.
-- ☁️ Trabalhar com deploy e aplicações em nuvem.
-- 👨‍💻 Conquistar uma oportunidade como Desenvolvedor Full Stack.
+- 📖 Aprender continuamente novas tecnologias.
+- 💻 Desenvolver aplicações completas.
+- ☁️ Trabalhar com Cloud Computing.
+- 🤖 Integrar Inteligência Artificial em aplicações Web.
+- 🚀 Conquistar minha primeira oportunidade como Desenvolvedor Full Stack.
+
+---
+
+# 📈 Atualmente estudando
+
+- Python
+- Flask
+- SQL
+- Git e GitHub
+- APIs REST
+- Inteligência Artificial
 
 ---
 
