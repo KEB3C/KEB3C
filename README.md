@@ -14,8 +14,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arthur--farias--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-farias-dev/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-@arthurr.fariaas-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurr.fariaas)
-
 [![Gmail](https://img.shields.io/badge/Gmail-arthurfarias43448@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurfarias43448@gmail.com)
 
 ---
