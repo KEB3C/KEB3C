@@ -1,7 +1,10 @@
-<p align="center">
-  <img src="banner.png" alt="Banner Arthur Farias" width="100%">
-</p>
+<h1 align="center">
+May the Code be with You. ⚔️
+</h1>
 
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
 # 👋 Olá, eu sou o Arthur Farias!
 
 🎓 Estudante de **Ciência da Computação**
@@ -44,7 +47,7 @@ Sistema Web desenvolvido em **Python + Flask** para auxiliar pacientes e profiss
 
 ### 🌐 Aplicação Online
 
-https://tsuzuku.onrender.com
+[![Abrir Tsuzuku](https://img.shields.io/badge/🚀-Acessar%20Tsuzuku-00C853?style=for-the-badge)](https://tsuzuku.onrender.com)
 
 ### 📂 Repositório
 
@@ -137,3 +140,7 @@ Projeto acadêmico sobre conceitos de áudio digital.
 ---
 
 ⭐ Obrigado por visitar meu perfil!
+
+<p align="center">
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="350">
+</p>
